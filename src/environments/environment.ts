@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  oneSignalAppId: 'e8b301b5-c9c8-4fa2-bd8f-116e6c88ef6a'
 };
 
 /*
